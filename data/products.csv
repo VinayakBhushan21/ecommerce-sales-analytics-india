@@ -1,0 +1,36 @@
+product_id,product_name,category,cost_price,list_price
+PROD0001,Smartphone,Electronics,17589.22,23098.13
+PROD0002,Laptop,Electronics,16325.28,21096.19
+PROD0003,Headphones,Electronics,18062.87,20840.14
+PROD0004,Smartwatch,Electronics,11371.14,13157.81
+PROD0005,Bluetooth Speaker,Electronics,8572.45,10401.59
+PROD0006,Power Bank,Electronics,10487.34,11785.37
+PROD0007,Tablet,Electronics,10755.09,13618.92
+PROD0008,Men's T-Shirt,Fashion,9451.38,10757.18
+PROD0009,Women's Kurti,Fashion,23086.18,25782.26
+PROD0010,Jeans,Fashion,20819.53,23386.73
+PROD0011,Sneakers,Fashion,2549.63,3275.51
+PROD0012,Saree,Fashion,20322.47,25181.42
+PROD0013,Jacket,Fashion,14723.66,18263.18
+PROD0014,Sunglasses,Fashion,8341.7,9430.77
+PROD0015,Mixer Grinder,Home & Kitchen,8936.91,11317.12
+PROD0016,Non-Stick Pan,Home & Kitchen,18794.56,24752.87
+PROD0017,Bedsheet Set,Home & Kitchen,18068.36,24249.54
+PROD0018,LED Bulb,Home & Kitchen,15070.19,17902.05
+PROD0019,Water Bottle,Home & Kitchen,14511.28,16734.19
+PROD0020,Cookware Set,Home & Kitchen,16469.9,19040.21
+PROD0021,Basmati Rice 5kg,Grocery,2839.23,3723.21
+PROD0022,Cooking Oil 1L,Grocery,9283.89,11982.27
+PROD0023,Atta 10kg,Grocery,14416.39,18767.33
+PROD0024,Tea Powder,Grocery,21152.11,28420.75
+PROD0025,Spice Combo Pack,Grocery,20487.91,25679.41
+PROD0026,Face Wash,Beauty & Personal Care,16121.07,17838.99
+PROD0027,Shampoo,Beauty & Personal Care,23237.74,30380.21
+PROD0028,Perfume,Beauty & Personal Care,6796.08,7782.22
+PROD0029,Lipstick,Beauty & Personal Care,17612.06,20733.73
+PROD0030,Trimmer,Beauty & Personal Care,8594.64,9467.22
+PROD0031,Yoga Mat,Sports & Fitness,21766.09,27024.35
+PROD0032,Dumbbell Set,Sports & Fitness,10109.49,11479.01
+PROD0033,Cricket Bat,Sports & Fitness,15884.32,17594.49
+PROD0034,Running Shoes,Sports & Fitness,18690.88,21565.22
+PROD0035,Resistance Bands,Sports & Fitness,10582.84,12543.04

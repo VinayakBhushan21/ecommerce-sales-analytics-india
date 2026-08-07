@@ -1,0 +1,601 @@
+customer_id,customer_name,email,city,state,signup_date,customer_segment
+CUST0001,Anvi Konda,liamchaudry@example.net,Hyderabad,Telangana,2024-03-26,Regular
+CUST0002,Pahal Balay,chandertejas@example.org,Jaipur,Rajasthan,2024-08-03,Regular
+CUST0003,Rushil Saini,saumyamall@example.org,Ahmedabad,Gujarat,2023-10-07,Premium
+CUST0004,Pahal Oak,nachiket35@example.org,Kochi,Kerala,2024-08-26,Regular
+CUST0005,Jagrati Padmanabhan,caleb78@example.org,Indore,Madhya Pradesh,2022-04-29,Regular
+CUST0006,Farhan Memon,rehaan10@example.net,Bangalore,Karnataka,2025-05-26,Regular
+CUST0007,Fariq Kaul,raiarunima@example.com,Chandigarh,Chandigarh,2022-10-18,Premium
+CUST0008,Nicholas Prabhakar,shaurya41@example.net,Kochi,Kerala,2024-03-22,Regular
+CUST0009,Nihal Shere,omadan@example.net,Kochi,Kerala,2024-03-21,Regular
+CUST0010,Daksh Karnik,muttinandini@example.com,Patna,Bihar,2023-12-12,Premium
+CUST0011,Simon Tata,jshanker@example.com,Mumbai,Maharashtra,2022-03-26,Premium
+CUST0012,Priya Rastogi,theodore28@example.com,Chennai,Tamil Nadu,2022-06-28,Premium
+CUST0013,Imaran Dua,pahalbhatt@example.com,Lucknow,Uttar Pradesh,2022-04-27,Regular
+CUST0014,Zayan Apte,yadavamara@example.net,Kolkata,West Bengal,2023-05-02,New
+CUST0015,Radhika Dugar,uaggarwal@example.net,Lucknow,Uttar Pradesh,2023-03-11,Regular
+CUST0016,Yashica Cherian,yashica93@example.org,Nagpur,Maharashtra,2022-12-03,Regular
+CUST0017,Aadi Naik,hbahl@example.com,Kanpur,Uttar Pradesh,2023-04-23,Premium
+CUST0018,Wriddhish Bhardwaj,farhanchada@example.net,Delhi,Delhi,2025-01-26,Premium
+CUST0019,Jeremiah Dave,qgandhi@example.net,Kochi,Kerala,2023-09-13,Regular
+CUST0020,Siddharth Zacharia,devikarastogi@example.net,Nagpur,Maharashtra,2025-01-18,Regular
+CUST0021,Zansi Seth,kotaumang@example.org,Surat,Gujarat,2024-04-09,New
+CUST0022,Thomas Amble,bhargavaveer@example.org,Coimbatore,Tamil Nadu,2023-03-08,New
+CUST0023,Ekavir Varkey,aryasunder@example.org,Kanpur,Uttar Pradesh,2025-03-01,Premium
+CUST0024,Xavier Solanki,ggupta@example.org,Bangalore,Karnataka,2023-11-20,Regular
+CUST0025,Pallavi Roy,rbhagat@example.net,Pune,Maharashtra,2024-04-20,Premium
+CUST0026,Darsh Rau,ikbal33@example.org,Bangalore,Karnataka,2025-06-09,New
+CUST0027,Pahal Goswami,turvi31@example.com,Hyderabad,Telangana,2023-11-16,Regular
+CUST0028,Chandresh Zachariah,chanderwarjas@example.org,Patna,Bihar,2024-10-28,Premium
+CUST0029,Tanay Rattan,galaladli@example.org,Kanpur,Uttar Pradesh,2023-06-03,Regular
+CUST0030,Suhani Mangal,jsur@example.org,Kanpur,Uttar Pradesh,2025-06-11,Regular
+CUST0031,Darsh Murthy,bedivansha@example.net,Jaipur,Rajasthan,2023-01-14,Premium
+CUST0032,Dakshesh Trivedi,grewalekapad@example.net,Bangalore,Karnataka,2025-03-19,Premium
+CUST0033,Netra Dar,balveerbumb@example.com,Chennai,Tamil Nadu,2022-03-28,Regular
+CUST0034,Advika Jayaraman,william46@example.org,Pune,Maharashtra,2024-04-18,Regular
+CUST0035,Tanvi Mutti,andratara@example.net,Nagpur,Maharashtra,2024-05-07,Regular
+CUST0036,Ethan Yogi,yashawinilanka@example.org,Kochi,Kerala,2025-06-28,Regular
+CUST0037,Yash Pingle,nakul78@example.net,Lucknow,Uttar Pradesh,2025-04-05,New
+CUST0038,Chandani Chawla,aishanidalia@example.org,Delhi,Delhi,2023-01-22,Regular
+CUST0039,Anita Manda,hemaljani@example.net,Delhi,Delhi,2024-08-05,New
+CUST0040,Yashasvi Suresh,charan16@example.com,Nagpur,Maharashtra,2024-03-20,Regular
+CUST0041,Kalpit Lala,riyasane@example.net,Kolkata,West Bengal,2022-02-26,New
+CUST0042,Manthan Banik,manbir62@example.org,Guwahati,Assam,2022-01-13,New
+CUST0043,Ishita Kade,harshilpandya@example.net,Lucknow,Uttar Pradesh,2023-01-29,Regular
+CUST0044,Mohammed Khalsa,petersachar@example.org,Bhopal,Madhya Pradesh,2025-02-02,Regular
+CUST0045,Nisha Kothari,nathaniel16@example.org,Patna,Bihar,2022-08-17,Regular
+CUST0046,Ryan Sharma,dalaja33@example.org,Ahmedabad,Gujarat,2024-12-31,Regular
+CUST0047,Falguni Mallick,mallickindali@example.net,Kochi,Kerala,2024-04-22,Regular
+CUST0048,Ayaan D’Alia,pranav94@example.org,Guwahati,Assam,2023-10-13,Regular
+CUST0049,Hemani Murthy,hvaidya@example.com,Guwahati,Assam,2022-05-19,Regular
+CUST0050,Aachal Basu,hagarwal@example.net,Pune,Maharashtra,2025-02-21,New
+CUST0051,Januja Sankar,narayanandipta@example.net,Ahmedabad,Gujarat,2024-05-26,Regular
+CUST0052,Yashica More,znarain@example.net,Bangalore,Karnataka,2024-12-18,Premium
+CUST0053,Rehaan Salvi,nghosh@example.net,Hyderabad,Telangana,2023-01-13,Regular
+CUST0054,Daksha Mangat,qushinagy@example.com,Chennai,Tamil Nadu,2023-01-20,Premium
+CUST0055,Yasti Solanki,fradomander@example.net,Indore,Madhya Pradesh,2023-07-18,Premium
+CUST0056,Girik Keer,umang32@example.org,Nagpur,Maharashtra,2024-04-27,Regular
+CUST0057,Elijah Shah,thayer@example.net,Patna,Bihar,2022-02-28,Regular
+CUST0058,Yagnesh Divan,chhabrapavani@example.org,Kochi,Kerala,2023-05-05,New
+CUST0059,Chandresh Krish,shankiaan@example.com,Mumbai,Maharashtra,2022-08-13,Premium
+CUST0060,Saanvi Thaman,ksehgal@example.net,Hyderabad,Telangana,2024-05-01,Premium
+CUST0061,Aashi Kota,vedhika34@example.com,Kochi,Kerala,2025-01-04,Premium
+CUST0062,Wahab Magar,ekaja81@example.org,Lucknow,Uttar Pradesh,2022-04-09,Regular
+CUST0063,Michael Kala,sachdevanikita@example.com,Indore,Madhya Pradesh,2022-07-12,Regular
+CUST0064,David Jhaveri,xramachandran@example.net,Mumbai,Maharashtra,2023-11-24,New
+CUST0065,Lajita Sood,pandeychanchal@example.com,Jaipur,Rajasthan,2025-04-22,New
+CUST0066,Thomas Sura,anjalisarin@example.com,Chennai,Tamil Nadu,2024-12-24,Regular
+CUST0067,Nidhi Gandhi,ndatta@example.net,Hyderabad,Telangana,2022-02-07,New
+CUST0068,Avi Chacko,ddeshmukh@example.org,Surat,Gujarat,2022-02-04,New
+CUST0069,Falak Kakar,vnarain@example.com,Chandigarh,Chandigarh,2022-03-06,Premium
+CUST0070,Zayyan Bumb,vbahl@example.net,Ahmedabad,Gujarat,2022-12-22,Regular
+CUST0071,Udarsh Biswas,balasubramanianyug@example.org,Chennai,Tamil Nadu,2022-03-08,Regular
+CUST0072,William Date,kcontractor@example.org,Chandigarh,Chandigarh,2024-12-06,New
+CUST0073,Jyoti Ganesh,gadedeepa@example.org,Coimbatore,Tamil Nadu,2023-08-17,Regular
+CUST0074,Keya Ranganathan,faqidkibe@example.org,Mumbai,Maharashtra,2024-01-09,Regular
+CUST0075,Jai Barman,priya51@example.net,Kanpur,Uttar Pradesh,2024-06-08,New
+CUST0076,Osha Suri,santjanaki@example.net,Surat,Gujarat,2024-04-06,Regular
+CUST0077,Michael Saran,anamikayohannan@example.com,Pune,Maharashtra,2025-02-11,New
+CUST0078,Ekantika Korpal,mallickshravya@example.org,Bangalore,Karnataka,2023-08-17,Regular
+CUST0079,Gayathri Balakrishnan,lnair@example.com,Bhopal,Madhya Pradesh,2024-08-15,New
+CUST0080,Harini Mammen,advaith83@example.org,Kochi,Kerala,2022-09-28,Premium
+CUST0081,Vrinda Khosla,cswaminathan@example.org,Ahmedabad,Gujarat,2022-11-04,Premium
+CUST0082,Nidhi Kohli,jyoti78@example.net,Kochi,Kerala,2022-04-29,Regular
+CUST0083,Indira Setty,damini43@example.org,Chandigarh,Chandigarh,2023-03-15,New
+CUST0084,Jagdish Wason,rehaankalita@example.net,Indore,Madhya Pradesh,2024-07-09,New
+CUST0085,Harish Hari,utkarsh52@example.com,Kochi,Kerala,2023-09-10,Premium
+CUST0086,Anusha Bath,masterjonathan@example.net,Kolkata,West Bengal,2022-01-19,Premium
+CUST0087,Harshil Arora,upasna77@example.com,Nagpur,Maharashtra,2025-01-13,New
+CUST0088,Zayyan Sridhar,bhattacharyyanandini@example.com,Kanpur,Uttar Pradesh,2022-08-24,Regular
+CUST0089,Max Dixit,frederick31@example.net,Chandigarh,Chandigarh,2022-04-05,Regular
+CUST0090,Lajita Seshadri,lmishra@example.com,Pune,Maharashtra,2024-09-02,Regular
+CUST0091,Hardik Johal,aishanibumb@example.org,Lucknow,Uttar Pradesh,2023-01-25,Regular
+CUST0092,Naksh Agate,sseshadri@example.net,Kochi,Kerala,2022-11-03,Regular
+CUST0093,Vincent Mani,sudiksha13@example.com,Pune,Maharashtra,2023-08-23,Regular
+CUST0094,Pavani Contractor,manthanlata@example.org,Delhi,Delhi,2024-10-02,Regular
+CUST0095,Damyanti Mani,ddash@example.net,Delhi,Delhi,2022-04-02,New
+CUST0096,Anita Tella,fsarma@example.net,Bangalore,Karnataka,2023-01-24,Regular
+CUST0097,Ekantika Krishna,chandveer@example.net,Jaipur,Rajasthan,2022-02-20,Premium
+CUST0098,Amruta Baria,upmavenkataraman@example.net,Kolkata,West Bengal,2024-12-02,Regular
+CUST0099,Pratyush Sarin,echand@example.com,Guwahati,Assam,2023-07-19,Premium
+CUST0100,Henry Dyal,nisha74@example.net,Pune,Maharashtra,2023-06-06,Premium
+CUST0101,Suhani Chakrabarti,zayyan51@example.com,Indore,Madhya Pradesh,2025-04-21,Regular
+CUST0102,Turvi Sachdev,guhazarna@example.com,Hyderabad,Telangana,2025-01-08,Premium
+CUST0103,Riya Behl,amaradeep@example.com,Kanpur,Uttar Pradesh,2024-03-05,Regular
+CUST0104,Jairaj Balakrishnan,nathanmukhopadhyay@example.net,Patna,Bihar,2023-07-14,New
+CUST0105,Girik Kar,shenoyjacob@example.net,Delhi,Delhi,2022-01-18,Premium
+CUST0106,Bishakha Upadhyay,ojasvi77@example.org,Hyderabad,Telangana,2024-11-27,Regular
+CUST0107,Leela Halder,ekarajmajumdar@example.com,Lucknow,Uttar Pradesh,2023-08-06,New
+CUST0108,Aarnav Mandal,vrishti27@example.net,Hyderabad,Telangana,2023-03-10,Regular
+CUST0109,Krishna Shah,ranbir39@example.com,Kolkata,West Bengal,2023-09-11,Regular
+CUST0110,Caleb Nadkarni,yraj@example.net,Ahmedabad,Gujarat,2022-10-26,Regular
+CUST0111,Warhi Bansal,yadavinarula@example.org,Jaipur,Rajasthan,2024-10-08,Regular
+CUST0112,Harish Vora,uaurora@example.org,Bangalore,Karnataka,2025-01-20,Regular
+CUST0113,Falan Singh,hamsini96@example.net,Kochi,Kerala,2023-06-08,Regular
+CUST0114,Lajita Nadig,nbanik@example.org,Kochi,Kerala,2022-04-13,New
+CUST0115,Utkarsh Chana,wchaudhari@example.net,Bangalore,Karnataka,2022-10-27,New
+CUST0116,Sachi Ganesan,ayush05@example.org,Pune,Maharashtra,2024-06-17,Regular
+CUST0117,Raagini Dhingra,nishagole@example.org,Bhopal,Madhya Pradesh,2023-01-10,Regular
+CUST0118,Wridesh Tank,vincentshenoy@example.net,Nagpur,Maharashtra,2022-08-12,New
+CUST0119,Aditya Shroff,nakul17@example.com,Chennai,Tamil Nadu,2022-11-21,Regular
+CUST0120,Panini Krishna,mmittal@example.com,Nagpur,Maharashtra,2025-06-14,Regular
+CUST0121,Warjas Raj,chakrika40@example.net,Patna,Bihar,2024-12-24,Regular
+CUST0122,Chandran Taneja,victor95@example.org,Kochi,Kerala,2023-05-21,Premium
+CUST0123,Laksh Chatterjee,moreridhi@example.org,Bhopal,Madhya Pradesh,2024-03-23,Regular
+CUST0124,Gautam Merchant,ojasvi23@example.org,Surat,Gujarat,2024-01-10,Regular
+CUST0125,Yachana Mahajan,aarinisubramaniam@example.com,Delhi,Delhi,2024-09-30,Premium
+CUST0126,Ishwar Sidhu,dhaliwalupkaar@example.net,Kochi,Kerala,2024-08-10,Regular
+CUST0127,Jasmit Chana,qatwal@example.net,Lucknow,Uttar Pradesh,2024-07-13,Regular
+CUST0128,Adweta Raj,hritik37@example.org,Guwahati,Assam,2022-06-07,Regular
+CUST0129,Timothy Bhatnagar,pmittal@example.com,Chandigarh,Chandigarh,2024-03-01,Regular
+CUST0130,Baljiwan Modi,gdalia@example.org,Chandigarh,Chandigarh,2022-05-29,Regular
+CUST0131,Lipika Setty,oni92@example.com,Chennai,Tamil Nadu,2025-02-06,Regular
+CUST0132,Nikita Mammen,prabhakarteerth@example.com,Bangalore,Karnataka,2024-04-15,Premium
+CUST0133,Janani Chaudhary,jagrati06@example.com,Pune,Maharashtra,2023-07-22,Regular
+CUST0134,Suhani Chand,anshbedi@example.com,Guwahati,Assam,2022-08-31,Regular
+CUST0135,Samesh Biswas,tarakkaul@example.com,Coimbatore,Tamil Nadu,2022-11-07,Regular
+CUST0136,Aradhana Dhillon,zashilghosh@example.org,Bangalore,Karnataka,2024-09-15,Regular
+CUST0137,Karan Aurora,wazir95@example.org,Guwahati,Assam,2024-04-23,Premium
+CUST0138,Jonathan Sama,bhattvamakshi@example.com,Lucknow,Uttar Pradesh,2022-08-11,New
+CUST0139,Siya Thakur,calebverma@example.com,Kolkata,West Bengal,2024-09-19,Premium
+CUST0140,Darsh Srinivas,rsandhu@example.org,Lucknow,Uttar Pradesh,2023-08-08,Regular
+CUST0141,Ethan Buch,manbir12@example.com,Nagpur,Maharashtra,2023-09-18,Regular
+CUST0142,Lakshmi Wali,sudiksha89@example.com,Surat,Gujarat,2024-03-07,Regular
+CUST0143,Tanveer Sani,akari@example.com,Bangalore,Karnataka,2022-05-07,Regular
+CUST0144,Ojasvi Chandran,prisha54@example.com,Coimbatore,Tamil Nadu,2024-11-21,New
+CUST0145,Ekalinga Chand,chanderrachana@example.org,Hyderabad,Telangana,2025-05-01,Regular
+CUST0146,Kalpit Bhasin,jason65@example.net,Kolkata,West Bengal,2024-08-08,Regular
+CUST0147,Charan Mani,indira19@example.net,Ahmedabad,Gujarat,2025-04-15,New
+CUST0148,Udarsh Chokshi,jhalak14@example.net,Bangalore,Karnataka,2022-09-29,New
+CUST0149,Atharv Loke,goleanjali@example.net,Kanpur,Uttar Pradesh,2022-10-16,Regular
+CUST0150,Indali Ahuja,lukerattan@example.org,Patna,Bihar,2024-08-30,New
+CUST0151,Gavin Wali,krishasaini@example.com,Surat,Gujarat,2022-07-01,Premium
+CUST0152,Devika Nair,bennachiket@example.org,Chandigarh,Chandigarh,2023-03-11,Regular
+CUST0153,Finn Magar,fsamra@example.net,Kochi,Kerala,2024-08-20,Regular
+CUST0154,Tanveer Vala,paiqushi@example.org,Hyderabad,Telangana,2023-07-19,New
+CUST0155,Darika Bath,meghabhakta@example.org,Ahmedabad,Gujarat,2022-12-28,Regular
+CUST0156,Laksh Kumer,falak10@example.com,Hyderabad,Telangana,2022-09-18,Premium
+CUST0157,Kai Rai,xitipandya@example.org,Ahmedabad,Gujarat,2024-08-11,Regular
+CUST0158,Rajata Bahl,ubrahmbhatt@example.net,Coimbatore,Tamil Nadu,2023-05-22,Regular
+CUST0159,Omisha Mann,ravelansh@example.com,Lucknow,Uttar Pradesh,2023-07-02,Regular
+CUST0160,Janaki Chakrabarti,pcherian@example.com,Jaipur,Rajasthan,2022-08-08,Regular
+CUST0161,Meghana Mukherjee,timothy52@example.org,Jaipur,Rajasthan,2024-01-22,New
+CUST0162,Yashvi Hari,indali23@example.org,Delhi,Delhi,2023-10-14,Regular
+CUST0163,Oscar Dua,goelwakeeta@example.com,Indore,Madhya Pradesh,2022-07-06,New
+CUST0164,Ekantika Mutti,riabir@example.com,Delhi,Delhi,2024-08-20,Regular
+CUST0165,Anvi Bhalla,yashica14@example.com,Ahmedabad,Gujarat,2023-07-19,Premium
+CUST0166,Jyoti Mangat,chanayashica@example.com,Jaipur,Rajasthan,2023-07-31,Regular
+CUST0167,Shivani Guha,vamakshi82@example.org,Patna,Bihar,2023-08-14,Premium
+CUST0168,Frado Thaman,balveerkota@example.net,Indore,Madhya Pradesh,2023-07-29,Premium
+CUST0169,Nathan Patla,barkha66@example.com,Hyderabad,Telangana,2023-07-13,Regular
+CUST0170,Gaurika Bhatti,girindra86@example.com,Ahmedabad,Gujarat,2024-05-16,Regular
+CUST0171,Gauri Bumb,inayamukherjee@example.net,Kanpur,Uttar Pradesh,2022-11-18,Premium
+CUST0172,Kai Chad,krisha52@example.net,Ahmedabad,Gujarat,2024-06-10,Regular
+CUST0173,Pallavi Trivedi,andrew54@example.org,Delhi,Delhi,2024-06-15,Regular
+CUST0174,Vedika Handa,lakshdubey@example.org,Delhi,Delhi,2025-04-28,New
+CUST0175,Yashica Zacharia,nayarkaran@example.net,Kolkata,West Bengal,2023-01-13,Premium
+CUST0176,Pratyush Gandhi,abassi@example.com,Hyderabad,Telangana,2023-04-26,Regular
+CUST0177,Sachi Mane,ikaur@example.org,Kochi,Kerala,2024-05-13,New
+CUST0178,Rishi Pillai,xshenoy@example.com,Indore,Madhya Pradesh,2023-01-30,New
+CUST0179,Neel Iyengar,zashilben@example.net,Ahmedabad,Gujarat,2024-09-19,New
+CUST0180,Harshil Varty,manefiyaz@example.org,Pune,Maharashtra,2023-09-06,New
+CUST0181,Rajeshri Chand,shravyapalla@example.org,Chennai,Tamil Nadu,2022-12-15,New
+CUST0182,Yadavi Prakash,libnibumb@example.com,Mumbai,Maharashtra,2023-06-14,Regular
+CUST0183,Hardik Nayak,lakshbarad@example.com,Lucknow,Uttar Pradesh,2022-10-14,Premium
+CUST0184,Liam Singh,fahluwalia@example.org,Indore,Madhya Pradesh,2025-03-16,New
+CUST0185,Pallavi Choudhry,wazir41@example.org,Pune,Maharashtra,2022-11-23,Regular
+CUST0186,Dev Choudhry,bwason@example.net,Hyderabad,Telangana,2022-11-01,Regular
+CUST0187,Maanas Manne,nagarwal@example.com,Delhi,Delhi,2023-10-20,New
+CUST0188,Rachit Chada,ekansh88@example.net,Pune,Maharashtra,2022-11-03,Regular
+CUST0189,Madhavi Singhal,ramkashvi@example.com,Patna,Bihar,2024-09-30,Regular
+CUST0190,Ekansh Pai,hemangnatarajan@example.org,Pune,Maharashtra,2024-08-11,Regular
+CUST0191,Parth Shetty,zgopal@example.org,Kolkata,West Bengal,2022-02-26,Regular
+CUST0192,Balhaar Memon,calebiyengar@example.org,Jaipur,Rajasthan,2022-03-22,New
+CUST0193,Yutika Rao,ckulkarni@example.net,Jaipur,Rajasthan,2023-02-07,Regular
+CUST0194,Champak Narula,jeet56@example.com,Chandigarh,Chandigarh,2022-09-01,Regular
+CUST0195,Harinakshi Grover,xtank@example.net,Kochi,Kerala,2024-08-06,Regular
+CUST0196,Panini Brar,igole@example.com,Mumbai,Maharashtra,2022-12-07,Regular
+CUST0197,Falak Merchant,sanaya96@example.org,Jaipur,Rajasthan,2023-02-14,Regular
+CUST0198,Sanya Basak,radhika40@example.org,Jaipur,Rajasthan,2024-05-30,Regular
+CUST0199,Januja Varghese,azaandhar@example.net,Coimbatore,Tamil Nadu,2024-05-06,Regular
+CUST0200,Bakhshi Date,keerjeevika@example.com,Lucknow,Uttar Pradesh,2024-05-15,Regular
+CUST0201,Mitesh Sengupta,kamya71@example.net,Chandigarh,Chandigarh,2023-05-04,Regular
+CUST0202,Mitali Murthy,zaid10@example.net,Guwahati,Assam,2022-06-25,Regular
+CUST0203,Jacob Lala,sanaya39@example.com,Delhi,Delhi,2022-08-26,Premium
+CUST0204,Ryan Das,ethanseth@example.org,Mumbai,Maharashtra,2024-06-04,Regular
+CUST0205,Gagan Nagarajan,dhruv88@example.com,Kochi,Kerala,2025-02-20,Premium
+CUST0206,Owen Pathak,jairajiyer@example.org,Kolkata,West Bengal,2025-02-11,Regular
+CUST0207,Atharv Patel,unni82@example.net,Bangalore,Karnataka,2022-10-30,New
+CUST0208,Dayamai Rao,avora@example.com,Lucknow,Uttar Pradesh,2025-02-02,Premium
+CUST0209,Jeremiah Nadig,senguptaunnati@example.net,Hyderabad,Telangana,2024-11-16,Premium
+CUST0210,Qabil Dayal,dthakkar@example.org,Surat,Gujarat,2023-10-23,Regular
+CUST0211,Nitesh Edwin,umang58@example.com,Indore,Madhya Pradesh,2023-10-24,Regular
+CUST0212,Ronith Maharaj,chavviwalla@example.org,Surat,Gujarat,2024-12-15,Premium
+CUST0213,Mitesh Garg,benjamin01@example.org,Kolkata,West Bengal,2023-10-04,Regular
+CUST0214,Shivansh Saha,tankbimala@example.net,Nagpur,Maharashtra,2025-04-25,Premium
+CUST0215,Yash Ravi,sudiksha10@example.org,Chennai,Tamil Nadu,2025-05-05,Premium
+CUST0216,Ucchal Jani,maanas55@example.net,Surat,Gujarat,2023-07-15,Regular
+CUST0217,Mohini De,yutika81@example.com,Mumbai,Maharashtra,2025-06-14,Regular
+CUST0218,Amara Sengupta,lohitchatterjee@example.org,Kolkata,West Bengal,2022-11-05,Regular
+CUST0219,Omya Kothari,falakmunshi@example.org,Guwahati,Assam,2023-01-06,Premium
+CUST0220,Yutika Sibal,fmorar@example.org,Lucknow,Uttar Pradesh,2024-08-31,Regular
+CUST0221,Yashasvi Shankar,tanveerpandit@example.org,Patna,Bihar,2022-04-25,Premium
+CUST0222,Upma Mangal,chokshiraagini@example.org,Chandigarh,Chandigarh,2022-03-06,Regular
+CUST0223,Neha Pau,rattancharan@example.net,Chennai,Tamil Nadu,2025-01-31,Premium
+CUST0224,Bhavya Borah,cthaman@example.net,Surat,Gujarat,2023-12-18,Regular
+CUST0225,Kabir Chatterjee,yprakash@example.com,Coimbatore,Tamil Nadu,2022-12-23,Regular
+CUST0226,Maanas Issac,ctella@example.org,Pune,Maharashtra,2023-12-13,Premium
+CUST0227,Urvi Venkataraman,mdixit@example.net,Pune,Maharashtra,2022-02-19,New
+CUST0228,Nicholas Ramaswamy,gayathri88@example.net,Ahmedabad,Gujarat,2022-06-28,Regular
+CUST0229,Vaishnavi Badal,garima16@example.net,Pune,Maharashtra,2023-09-18,New
+CUST0230,Urvi Lanka,charansrinivasan@example.org,Coimbatore,Tamil Nadu,2023-01-28,New
+CUST0231,Manbir Kibe,choudharyrayaan@example.org,Bangalore,Karnataka,2023-10-31,Regular
+CUST0232,Max Sachar,nirjathaker@example.net,Guwahati,Assam,2023-07-17,Regular
+CUST0233,Lakshit Venkataraman,ektasridhar@example.net,Nagpur,Maharashtra,2025-03-20,Regular
+CUST0234,Tripti Walia,irya49@example.com,Pune,Maharashtra,2023-04-26,Regular
+CUST0235,Arya Misra,chamelimani@example.net,Mumbai,Maharashtra,2022-09-03,New
+CUST0236,Edhitha Srinivasan,anusha41@example.net,Hyderabad,Telangana,2022-09-22,Premium
+CUST0237,Megha Pai,binabasak@example.com,Pune,Maharashtra,2024-05-13,Regular
+CUST0238,Hiral Sathe,varenya33@example.net,Chandigarh,Chandigarh,2025-05-03,Regular
+CUST0239,Laksh Chopra,xavierbedi@example.net,Kochi,Kerala,2022-12-12,Regular
+CUST0240,Viraj Ben,sachdevganga@example.net,Hyderabad,Telangana,2025-03-01,Regular
+CUST0241,Abdul Dugar,esoni@example.net,Patna,Bihar,2023-08-26,Premium
+CUST0242,Ekani Mangal,chakrabortyvincent@example.net,Kochi,Kerala,2022-09-12,Premium
+CUST0243,Parth Sahni,balhaarranganathan@example.com,Patna,Bihar,2024-07-31,Premium
+CUST0244,Baljiwan Andra,hredhaan54@example.com,Chandigarh,Chandigarh,2022-08-26,Regular
+CUST0245,Krish Thaman,mmahajan@example.org,Kochi,Kerala,2025-06-16,Regular
+CUST0246,Aarini Grewal,nazarethchakrika@example.net,Chennai,Tamil Nadu,2023-02-26,Premium
+CUST0247,Parth Ravi,uvarma@example.org,Bhopal,Madhya Pradesh,2024-05-10,Regular
+CUST0248,Qasim Dey,pnaik@example.org,Pune,Maharashtra,2023-05-27,New
+CUST0249,Sanya Loke,chasmum99@example.org,Jaipur,Rajasthan,2022-11-29,Premium
+CUST0250,Warinder Bhatia,shroffdamyanti@example.org,Chandigarh,Chandigarh,2022-11-30,Regular
+CUST0251,Jacob Merchant,timothy32@example.com,Pune,Maharashtra,2023-06-02,Regular
+CUST0252,Ojasvi Sinha,yugbumb@example.net,Bangalore,Karnataka,2022-07-15,Premium
+CUST0253,Faras Choudhury,tiwarisamaksh@example.net,Pune,Maharashtra,2023-07-25,Regular
+CUST0254,Falak Venkatesh,rdada@example.org,Lucknow,Uttar Pradesh,2023-11-16,New
+CUST0255,Gavin Uppal,dbhakta@example.org,Bangalore,Karnataka,2024-07-03,Regular
+CUST0256,Dalbir Shere,anthony64@example.org,Pune,Maharashtra,2023-10-17,Regular
+CUST0257,Chakradev Sampath,devansh80@example.org,Ahmedabad,Gujarat,2024-08-09,Premium
+CUST0258,Azad Mangat,xgole@example.org,Bangalore,Karnataka,2025-06-12,Regular
+CUST0259,Kavya Raja,ypurohit@example.org,Lucknow,Uttar Pradesh,2024-09-04,Regular
+CUST0260,Ijaya Dani,mayawadhwa@example.org,Indore,Madhya Pradesh,2024-05-21,Regular
+CUST0261,Aarush Bajaj,ubika86@example.net,Indore,Madhya Pradesh,2024-07-17,Regular
+CUST0262,Yug Sharma,mohammed43@example.net,Guwahati,Assam,2023-04-29,New
+CUST0263,Oni Babu,samuelbhavsar@example.org,Mumbai,Maharashtra,2024-09-03,New
+CUST0264,Chanakya Konda,rattireva@example.org,Guwahati,Assam,2024-01-28,Regular
+CUST0265,Logan Thakur,vivaan95@example.net,Mumbai,Maharashtra,2023-11-20,New
+CUST0266,Warjas Mittal,timothysachdev@example.com,Surat,Gujarat,2024-02-02,Premium
+CUST0267,Prisha Tandon,padmanabhanlakshmi@example.net,Indore,Madhya Pradesh,2022-12-18,Regular
+CUST0268,Nilima Dixit,krisha28@example.com,Kochi,Kerala,2023-02-11,Premium
+CUST0269,Charita Dhawan,jbhardwaj@example.com,Pune,Maharashtra,2022-11-04,Regular
+CUST0270,Lipika Kibe,samar51@example.com,Jaipur,Rajasthan,2025-05-19,Regular
+CUST0271,Rayaan Behl,krishna99@example.org,Mumbai,Maharashtra,2024-12-16,Regular
+CUST0272,Teerth Srinivas,gaurangimitter@example.org,Nagpur,Maharashtra,2025-01-19,Premium
+CUST0273,Jacob Srinivas,samarthranganathan@example.org,Patna,Bihar,2022-09-28,New
+CUST0274,Lajita Shukla,darika45@example.net,Coimbatore,Tamil Nadu,2023-12-06,Regular
+CUST0275,Guneet Singh,samar55@example.com,Nagpur,Maharashtra,2025-01-31,Premium
+CUST0276,Madhav Babu,omisha42@example.org,Mumbai,Maharashtra,2022-02-28,Regular
+CUST0277,Yatan Tata,aarini77@example.com,Indore,Madhya Pradesh,2023-02-25,Regular
+CUST0278,Omkaar Dey,igour@example.net,Patna,Bihar,2022-08-03,Regular
+CUST0279,Falan Bava,sacharlaksh@example.net,Jaipur,Rajasthan,2025-05-06,Regular
+CUST0280,Aditya Kamdar,dprakash@example.net,Kolkata,West Bengal,2022-10-23,Regular
+CUST0281,Vinaya Babu,walinisha@example.org,Lucknow,Uttar Pradesh,2024-03-24,Premium
+CUST0282,Bhavini Badal,ggola@example.org,Nagpur,Maharashtra,2022-01-22,Regular
+CUST0283,Rehaan Vyas,irya46@example.org,Indore,Madhya Pradesh,2023-11-01,Regular
+CUST0284,Tripti Kohli,charitabuch@example.net,Bangalore,Karnataka,2023-04-22,Regular
+CUST0285,Girik Ravi,jpurohit@example.com,Kochi,Kerala,2025-06-19,Regular
+CUST0286,Onveer Butala,psaraf@example.com,Kanpur,Uttar Pradesh,2022-03-13,Regular
+CUST0287,Brijesh Karpe,vaishnavimadan@example.org,Bangalore,Karnataka,2023-12-24,Premium
+CUST0288,Bachittar Gola,amol39@example.org,Delhi,Delhi,2025-03-25,Premium
+CUST0289,Faraj Mistry,wrideshramachandran@example.net,Pune,Maharashtra,2024-08-17,Regular
+CUST0290,Leena Dey,tellahiral@example.org,Mumbai,Maharashtra,2025-02-17,Premium
+CUST0291,Faqid Oak,bnarain@example.net,Pune,Maharashtra,2022-05-05,Regular
+CUST0292,Vritti Kari,keya62@example.net,Hyderabad,Telangana,2022-12-15,Premium
+CUST0293,Frederick Merchant,ethanbutala@example.com,Kolkata,West Bengal,2024-01-18,Regular
+CUST0294,Lopa Nadig,hredhaan10@example.com,Jaipur,Rajasthan,2022-07-16,Premium
+CUST0295,Harsh Deo,groverraagini@example.com,Chennai,Tamil Nadu,2023-07-22,Premium
+CUST0296,Harshil Bal,pandyagirik@example.net,Hyderabad,Telangana,2023-12-12,Premium
+CUST0297,Lekha Arora,odika61@example.net,Chennai,Tamil Nadu,2024-02-03,New
+CUST0298,Omkaar Rai,liamluthra@example.com,Hyderabad,Telangana,2025-02-23,Premium
+CUST0299,Dev Ganesh,amajumdar@example.com,Surat,Gujarat,2022-12-09,Premium
+CUST0300,Jalsa Krishnamurthy,warhihayre@example.com,Nagpur,Maharashtra,2023-09-10,Regular
+CUST0301,Abeer Randhawa,lajita57@example.com,Kolkata,West Bengal,2022-05-17,Regular
+CUST0302,Charita Nagi,varenyamurthy@example.org,Pune,Maharashtra,2023-07-04,Regular
+CUST0303,Bishakha Swaminathan,eshanapuri@example.com,Surat,Gujarat,2025-05-15,New
+CUST0304,Janya Comar,pranitbala@example.net,Coimbatore,Tamil Nadu,2024-11-07,New
+CUST0305,Raksha Manne,regexalak@example.org,Guwahati,Assam,2023-08-13,Premium
+CUST0306,Zayyan Dube,epurohit@example.com,Kanpur,Uttar Pradesh,2024-03-19,Regular
+CUST0307,Nandini Warrior,ybansal@example.com,Kanpur,Uttar Pradesh,2025-06-18,Regular
+CUST0308,Ikbal Kothari,ojas90@example.net,Lucknow,Uttar Pradesh,2024-06-14,Regular
+CUST0309,Garima Sani,anneguneet@example.com,Indore,Madhya Pradesh,2025-06-09,New
+CUST0310,Sanaya Prasad,xsheth@example.net,Hyderabad,Telangana,2022-10-11,Regular
+CUST0311,Hemani Bakshi,scheema@example.com,Kanpur,Uttar Pradesh,2024-01-22,Premium
+CUST0312,Jack Dhar,devika57@example.org,Patna,Bihar,2025-03-20,Premium
+CUST0313,Vamakshi Chatterjee,usethi@example.org,Indore,Madhya Pradesh,2023-10-27,Regular
+CUST0314,Arin Oza,galayagnesh@example.net,Chandigarh,Chandigarh,2023-01-19,New
+CUST0315,Ganga Sandhu,zkata@example.com,Jaipur,Rajasthan,2022-08-11,Premium
+CUST0316,Rachana Randhawa,horashivani@example.net,Kochi,Kerala,2024-03-14,Premium
+CUST0317,Tanish Jha,dev91@example.net,Patna,Bihar,2023-07-03,Regular
+CUST0318,Ronith Shankar,lalavrishti@example.net,Guwahati,Assam,2022-08-27,Regular
+CUST0319,Lipika Ramanathan,pallindira@example.com,Pune,Maharashtra,2025-05-17,New
+CUST0320,Frado Desai,jacob34@example.org,Bangalore,Karnataka,2024-02-27,Regular
+CUST0321,Yasti Rama,kdevi@example.com,Patna,Bihar,2022-08-22,Regular
+CUST0322,Oscar Ganesan,imani@example.org,Patna,Bihar,2023-06-24,Premium
+CUST0323,Chatresh Parmer,sundaramlaban@example.org,Nagpur,Maharashtra,2023-02-06,Regular
+CUST0324,Nilima Swamy,fsawhney@example.org,Bhopal,Madhya Pradesh,2024-11-06,New
+CUST0325,Thomas Master,maharajumang@example.net,Chennai,Tamil Nadu,2022-04-16,Regular
+CUST0326,Warhi Vaidya,comaramrita@example.net,Kanpur,Uttar Pradesh,2023-01-04,Premium
+CUST0327,Benjamin Sastry,pavanichaudry@example.net,Lucknow,Uttar Pradesh,2024-11-16,Regular
+CUST0328,Chameli Bali,wlall@example.org,Coimbatore,Tamil Nadu,2024-11-25,Premium
+CUST0329,Warjas Kadakia,priya29@example.org,Jaipur,Rajasthan,2023-07-15,Premium
+CUST0330,Daniel Panchal,om54@example.com,Chandigarh,Chandigarh,2024-09-28,New
+CUST0331,Krishna Sabharwal,malhotrajonathan@example.net,Bangalore,Karnataka,2024-01-01,Regular
+CUST0332,Madhav Nagy,mayasuri@example.org,Indore,Madhya Pradesh,2025-01-10,Regular
+CUST0333,Oeshi Prashad,oborra@example.org,Pune,Maharashtra,2024-01-07,Premium
+CUST0334,Jyoti Sha,lnarang@example.org,Bhopal,Madhya Pradesh,2023-05-30,Regular
+CUST0335,Tara Parmar,warriormitali@example.org,Mumbai,Maharashtra,2025-01-13,Regular
+CUST0336,Warda Loyal,bhanumati58@example.net,Pune,Maharashtra,2025-05-20,Regular
+CUST0337,Hemal Bava,chaudharytripti@example.org,Pune,Maharashtra,2022-06-16,Regular
+CUST0338,Ridhi Shan,sanghasamaksh@example.net,Guwahati,Assam,2022-06-08,Regular
+CUST0339,Nathan Mahal,patelzashil@example.org,Kochi,Kerala,2025-03-06,Regular
+CUST0340,Charles Randhawa,vivaan61@example.net,Indore,Madhya Pradesh,2023-04-20,New
+CUST0341,Vansha Brahmbhatt,upkaarvenkataraman@example.net,Kochi,Kerala,2022-05-02,Regular
+CUST0342,Hemal Dara,edeo@example.org,Patna,Bihar,2023-07-22,Regular
+CUST0343,Harsh Chauhan,jhalak42@example.com,Jaipur,Rajasthan,2022-10-20,Regular
+CUST0344,Luke Biswas,galaria@example.com,Kolkata,West Bengal,2024-09-13,Regular
+CUST0345,Nisha Savant,gabrielchaudhry@example.org,Kochi,Kerala,2024-07-10,New
+CUST0346,Indali Sanghvi,logan34@example.net,Chennai,Tamil Nadu,2024-08-18,Regular
+CUST0347,Avi Mitra,zarnaupadhyay@example.org,Bhopal,Madhya Pradesh,2022-04-18,Regular
+CUST0348,Chatura Khatri,hraju@example.org,Guwahati,Assam,2024-08-12,New
+CUST0349,Advik Patel,kevin69@example.com,Chandigarh,Chandigarh,2023-09-30,Premium
+CUST0350,Urishilla Bora,birakshay@example.com,Hyderabad,Telangana,2023-04-12,New
+CUST0351,Mitali Toor,yachana66@example.net,Surat,Gujarat,2022-10-03,Regular
+CUST0352,Arunima Chacko,farhan83@example.org,Chennai,Tamil Nadu,2023-05-29,Regular
+CUST0353,Dominic Mukherjee,dkhare@example.org,Kochi,Kerala,2023-11-16,Regular
+CUST0354,Jack Setty,moreparth@example.org,Delhi,Delhi,2022-04-21,New
+CUST0355,Advay Gade,hpalan@example.net,Kochi,Kerala,2022-01-17,Regular
+CUST0356,Ojas Prabhu,amrutadalal@example.org,Ahmedabad,Gujarat,2024-09-26,Premium
+CUST0357,Anita Viswanathan,lallfaraj@example.com,Bhopal,Madhya Pradesh,2023-03-04,Regular
+CUST0358,Christopher Tata,jhalakdugar@example.com,Mumbai,Maharashtra,2023-08-04,Premium
+CUST0359,Vedant Upadhyay,basuadvik@example.org,Bhopal,Madhya Pradesh,2024-09-13,Regular
+CUST0360,Leela Doctor,balendrasaini@example.org,Lucknow,Uttar Pradesh,2022-02-28,Regular
+CUST0361,Ekaja Madan,pradhanjagdish@example.net,Delhi,Delhi,2023-02-15,Regular
+CUST0362,Praneel Kapoor,rattanekapad@example.com,Bhopal,Madhya Pradesh,2024-05-09,Regular
+CUST0363,Falak Chadha,xanand@example.org,Bangalore,Karnataka,2025-01-10,Regular
+CUST0364,Xavier Shetty,wakeeta38@example.org,Bangalore,Karnataka,2023-01-08,Premium
+CUST0365,Arjun Kaul,aditya50@example.net,Delhi,Delhi,2022-07-12,Regular
+CUST0366,Hemang Jha,oniswamy@example.org,Guwahati,Assam,2023-04-26,New
+CUST0367,Ati Chander,katazinal@example.com,Bangalore,Karnataka,2025-05-25,New
+CUST0368,Tara Chad,tiwarikiaan@example.net,Hyderabad,Telangana,2024-06-13,Premium
+CUST0369,David Saran,warjasmanne@example.com,Indore,Madhya Pradesh,2024-11-12,Premium
+CUST0370,Eta Nadkarni,omagar@example.org,Coimbatore,Tamil Nadu,2024-12-21,Regular
+CUST0371,Ikbal Dugal,galashivani@example.com,Chandigarh,Chandigarh,2025-04-18,Regular
+CUST0372,Ishita Johal,dmorar@example.com,Patna,Bihar,2023-02-05,Regular
+CUST0373,Nakul Modi,kalefalak@example.org,Guwahati,Assam,2024-12-23,New
+CUST0374,Ishani Randhawa,mistryabha@example.org,Surat,Gujarat,2022-04-27,Premium
+CUST0375,Sneha Krish,shereharsh@example.org,Delhi,Delhi,2022-02-09,Premium
+CUST0376,Tristan De,nandinipradhan@example.net,Hyderabad,Telangana,2022-06-04,New
+CUST0377,Aashi Borde,bhattacharyyarudra@example.net,Kolkata,West Bengal,2024-03-15,Premium
+CUST0378,George Narula,basaktriya@example.org,Jaipur,Rajasthan,2023-07-20,Premium
+CUST0379,Megha Taneja,rajapooja@example.org,Chennai,Tamil Nadu,2022-08-03,Regular
+CUST0380,Anvi Mammen,cdixit@example.net,Kochi,Kerala,2023-03-28,Regular
+CUST0381,Chakrika Tara,dsrinivas@example.org,Mumbai,Maharashtra,2024-03-01,Regular
+CUST0382,Oni Iyengar,anirudhraja@example.net,Coimbatore,Tamil Nadu,2022-12-23,Regular
+CUST0383,Hemangini Thakkar,lipika42@example.org,Delhi,Delhi,2023-04-04,Regular
+CUST0384,Ayushman Mand,sodhiishita@example.net,Surat,Gujarat,2023-02-11,Premium
+CUST0385,Harish Kota,amairawalla@example.net,Patna,Bihar,2025-06-29,Regular
+CUST0386,Lipika Pant,patrickkhalsa@example.net,Pune,Maharashtra,2022-03-13,New
+CUST0387,Ayaan Pandey,raghavtailor@example.net,Guwahati,Assam,2023-02-10,Premium
+CUST0388,Baljiwan Chana,kaultheodore@example.org,Kolkata,West Bengal,2023-01-30,Regular
+CUST0389,Garima Jaggi,harinigoel@example.com,Kochi,Kerala,2023-11-03,Regular
+CUST0390,Lucky Choudhry,elijah56@example.net,Ahmedabad,Gujarat,2022-03-17,New
+CUST0391,Ekantika Deshpande,rajeshrisur@example.net,Ahmedabad,Gujarat,2022-05-09,Regular
+CUST0392,Udant Gill,umohanty@example.net,Chennai,Tamil Nadu,2023-02-09,Premium
+CUST0393,Aarav Raman,gopaleesha@example.net,Coimbatore,Tamil Nadu,2023-01-11,Premium
+CUST0394,Watika Dhaliwal,faras35@example.com,Guwahati,Assam,2022-10-09,New
+CUST0395,Gautami Sekhon,lankashaurya@example.org,Patna,Bihar,2022-08-03,Regular
+CUST0396,Aahana Chokshi,bavalibni@example.com,Surat,Gujarat,2024-06-03,Premium
+CUST0397,Odika Tailor,ipanchal@example.com,Jaipur,Rajasthan,2024-07-23,Regular
+CUST0398,Umang Gaba,zborah@example.org,Bhopal,Madhya Pradesh,2022-05-10,Regular
+CUST0399,Advika Cheema,oommenonkar@example.com,Coimbatore,Tamil Nadu,2023-01-12,Regular
+CUST0400,Girik Nigam,bbalasubramanian@example.net,Indore,Madhya Pradesh,2022-07-25,Premium
+CUST0401,Naksh Bera,narulasamesh@example.org,Coimbatore,Tamil Nadu,2022-07-30,Regular
+CUST0402,Baghyawati Mishra,gopalbawa@example.com,Bangalore,Karnataka,2023-06-07,Regular
+CUST0403,Mitesh Bhagat,aarush61@example.com,Guwahati,Assam,2023-12-31,Premium
+CUST0404,Ryan Chatterjee,jhaverionkar@example.net,Mumbai,Maharashtra,2024-11-17,New
+CUST0405,Urvashi D’Alia,mitali77@example.net,Jaipur,Rajasthan,2023-01-08,Premium
+CUST0406,Qasim Prabhakar,lpingle@example.com,Chennai,Tamil Nadu,2022-12-05,Regular
+CUST0407,Udyati Lall,amrutabhatia@example.org,Patna,Bihar,2022-02-26,New
+CUST0408,Frederick Padmanabhan,jkaran@example.org,Chennai,Tamil Nadu,2024-08-17,New
+CUST0409,Vaishnavi Keer,fmistry@example.com,Indore,Madhya Pradesh,2024-12-08,Premium
+CUST0410,Yadavi Varughese,jaisen@example.org,Bhopal,Madhya Pradesh,2025-02-25,New
+CUST0411,Siddharth Hans,brijeshsampath@example.org,Bhopal,Madhya Pradesh,2025-04-26,Regular
+CUST0412,Saksham Divan,ekaja11@example.com,Lucknow,Uttar Pradesh,2025-06-15,Regular
+CUST0413,Anya Venkatesh,yarora@example.net,Hyderabad,Telangana,2023-12-11,New
+CUST0414,Isaiah Sachdeva,manbirchaudhry@example.org,Lucknow,Uttar Pradesh,2024-03-06,Regular
+CUST0415,Bhavika Wason,nirja46@example.net,Bhopal,Madhya Pradesh,2023-12-19,Regular
+CUST0416,Baljiwan Gera,neha29@example.net,Nagpur,Maharashtra,2023-09-12,New
+CUST0417,Balvan Randhawa,wazir07@example.com,Kochi,Kerala,2024-05-18,Regular
+CUST0418,Geetika Mitter,avni71@example.org,Bangalore,Karnataka,2025-02-18,Regular
+CUST0419,Ekani Luthra,mchakraborty@example.com,Lucknow,Uttar Pradesh,2022-06-21,Regular
+CUST0420,Vedhika Varty,daksh82@example.org,Nagpur,Maharashtra,2022-09-27,New
+CUST0421,Krishna Viswanathan,ghosereyansh@example.org,Mumbai,Maharashtra,2023-02-01,Premium
+CUST0422,Bachittar Shan,patelrushil@example.com,Kochi,Kerala,2024-12-03,Regular
+CUST0423,Yashasvi Ranganathan,balasubramanianwyatt@example.com,Delhi,Delhi,2023-04-16,Regular
+CUST0424,Peter Som,hemangini24@example.net,Kanpur,Uttar Pradesh,2023-09-16,Premium
+CUST0425,Bhavani Bala,kbawa@example.net,Bhopal,Madhya Pradesh,2024-11-26,Premium
+CUST0426,Timothy Kar,amrutarout@example.net,Delhi,Delhi,2024-09-22,Regular
+CUST0427,Urvi Deo,abhiramkapur@example.com,Kochi,Kerala,2022-01-26,Regular
+CUST0428,Anvi Sampath,dpalla@example.com,Surat,Gujarat,2024-02-16,Regular
+CUST0429,Mekhala Chaudry,vaidyakavya@example.net,Bhopal,Madhya Pradesh,2022-10-06,Regular
+CUST0430,Chanchal Chokshi,vbhatt@example.com,Coimbatore,Tamil Nadu,2024-04-06,Premium
+CUST0431,Advika Misra,masonvarughese@example.org,Chennai,Tamil Nadu,2024-03-28,Regular
+CUST0432,Ekaja Dey,tankchakrika@example.com,Mumbai,Maharashtra,2025-02-22,Premium
+CUST0433,Lipika Banik,hemalkapadia@example.net,Bangalore,Karnataka,2025-03-03,Regular
+CUST0434,Jagrati Tripathi,onkar82@example.com,Hyderabad,Telangana,2023-11-14,Regular
+CUST0435,Aarna Goswami,gaurav35@example.org,Hyderabad,Telangana,2022-05-05,Premium
+CUST0436,Osha Narula,abha94@example.com,Ahmedabad,Gujarat,2024-08-07,Regular
+CUST0437,Chatresh Bobal,ghayer@example.org,Surat,Gujarat,2024-12-22,Regular
+CUST0438,Chanchal Sachdev,doralaksh@example.org,Jaipur,Rajasthan,2025-01-11,Regular
+CUST0439,Luke Mutti,farissura@example.com,Bhopal,Madhya Pradesh,2023-03-14,New
+CUST0440,Dhriti Bhardwaj,sethanusha@example.org,Pune,Maharashtra,2024-03-16,Regular
+CUST0441,Nathan Suri,dayalradha@example.net,Ahmedabad,Gujarat,2024-08-29,Regular
+CUST0442,Vansha Rajagopal,baradryan@example.net,Coimbatore,Tamil Nadu,2023-07-02,Regular
+CUST0443,Ekanta Wali,andrewagrawal@example.net,Ahmedabad,Gujarat,2023-04-22,New
+CUST0444,Hemangini Muni,harshilrajagopal@example.net,Jaipur,Rajasthan,2024-07-25,Premium
+CUST0445,Dhruv Bath,bina78@example.net,Indore,Madhya Pradesh,2024-01-22,Regular
+CUST0446,Krish Oommen,wparmer@example.org,Chandigarh,Chandigarh,2023-10-31,Regular
+CUST0447,Anirudh Kari,karankakar@example.net,Mumbai,Maharashtra,2022-07-30,Regular
+CUST0448,Jatin Peri,prashadaadhya@example.net,Surat,Gujarat,2022-01-28,New
+CUST0449,Hritik Bahri,daliaomaja@example.com,Guwahati,Assam,2024-03-06,New
+CUST0450,Urvi Dua,adityamitra@example.com,Bhopal,Madhya Pradesh,2023-05-01,New
+CUST0451,Laksh Sahota,vaidyajacob@example.com,Patna,Bihar,2024-04-24,Regular
+CUST0452,Widisha Issac,adyavirk@example.org,Kanpur,Uttar Pradesh,2022-05-26,Regular
+CUST0453,Chakrika Dyal,tanejasarthak@example.net,Kochi,Kerala,2023-04-02,Regular
+CUST0454,Wahab Agate,chakrabortyindrajit@example.net,Lucknow,Uttar Pradesh,2025-04-05,New
+CUST0455,Gautam Vaidya,chaudhuriaahana@example.net,Pune,Maharashtra,2024-05-03,Premium
+CUST0456,Aishani Shetty,chaudhryowen@example.org,Pune,Maharashtra,2022-10-22,New
+CUST0457,Dhriti Sandhu,chandranchakradev@example.org,Indore,Madhya Pradesh,2024-12-23,Regular
+CUST0458,Falguni Parmar,uloyal@example.org,Bhopal,Madhya Pradesh,2024-12-23,Premium
+CUST0459,Qadim Comar,dratta@example.com,Nagpur,Maharashtra,2023-04-21,Regular
+CUST0460,Oviya Ganesan,deodaniel@example.org,Ahmedabad,Gujarat,2024-12-02,Regular
+CUST0461,Raksha Golla,nparmer@example.org,Delhi,Delhi,2022-05-13,Regular
+CUST0462,Vasudha Sura,sabharwalridhi@example.org,Guwahati,Assam,2025-01-05,Regular
+CUST0463,Advik Vohra,hamsinivenkataraman@example.net,Hyderabad,Telangana,2022-03-22,New
+CUST0464,Rachita Kothari,qpal@example.net,Patna,Bihar,2024-05-28,Regular
+CUST0465,Chatura Apte,yashasvisingh@example.com,Patna,Bihar,2024-03-29,Regular
+CUST0466,Vyanjana Nagi,gangamall@example.org,Ahmedabad,Gujarat,2025-01-14,Regular
+CUST0467,Neha Keer,sharafsachi@example.net,Ahmedabad,Gujarat,2023-10-09,Regular
+CUST0468,Sanya Mutti,tankandrew@example.org,Jaipur,Rajasthan,2023-07-26,Regular
+CUST0469,Aadi Chand,yashoda83@example.net,Nagpur,Maharashtra,2023-05-30,Premium
+CUST0470,Januja Bhagat,suhaninarula@example.net,Lucknow,Uttar Pradesh,2024-05-06,New
+CUST0471,Januja Sethi,chatterjeetristan@example.org,Kochi,Kerala,2024-09-06,Regular
+CUST0472,Kashvi Cherian,galawaida@example.org,Lucknow,Uttar Pradesh,2023-03-12,Premium
+CUST0473,Hredhaan Kumar,raghavdara@example.com,Bhopal,Madhya Pradesh,2024-11-14,New
+CUST0474,Hamsini Chokshi,obatra@example.net,Delhi,Delhi,2022-10-03,Premium
+CUST0475,Tanvi Thaman,wishiagrawal@example.net,Pune,Maharashtra,2024-01-22,Premium
+CUST0476,Vasudha Trivedi,oscardave@example.org,Surat,Gujarat,2024-07-28,New
+CUST0477,Yamini Rajagopalan,rkothari@example.com,Bangalore,Karnataka,2023-05-10,Regular
+CUST0478,Sneha Deol,nitaravala@example.com,Hyderabad,Telangana,2025-05-14,Premium
+CUST0479,Teerth Iyer,binapai@example.net,Hyderabad,Telangana,2024-12-11,Regular
+CUST0480,Yahvi Naidu,pandeyvarsha@example.net,Surat,Gujarat,2022-06-19,New
+CUST0481,Bhavika Sami,virkhredhaan@example.org,Delhi,Delhi,2023-12-30,Regular
+CUST0482,Daksh Iyengar,naveen44@example.org,Delhi,Delhi,2023-05-01,Regular
+CUST0483,Samar Bali,sneha19@example.net,Kanpur,Uttar Pradesh,2024-12-07,Regular
+CUST0484,Lopa Khanna,champak66@example.com,Pune,Maharashtra,2024-08-01,Regular
+CUST0485,Chatura Arya,samaksh97@example.org,Guwahati,Assam,2025-05-05,Premium
+CUST0486,Ronith Hari,saumya21@example.org,Chennai,Tamil Nadu,2025-03-09,Regular
+CUST0487,Krishna Baria,jmallick@example.com,Bangalore,Karnataka,2025-05-13,Premium
+CUST0488,Abdul Narayanan,cdubey@example.org,Nagpur,Maharashtra,2022-06-15,Premium
+CUST0489,Charvi Swaminathan,elijah58@example.org,Pune,Maharashtra,2025-03-30,Regular
+CUST0490,Yashasvi Dutta,zyadav@example.org,Guwahati,Assam,2025-05-06,Regular
+CUST0491,Garima Narula,chaaya39@example.net,Patna,Bihar,2023-03-22,Premium
+CUST0492,Ishwar Pal,pkhosla@example.net,Patna,Bihar,2023-08-29,Regular
+CUST0493,Balveer Nagi,ycomar@example.com,Mumbai,Maharashtra,2025-03-18,New
+CUST0494,Aryan Varughese,yoshita87@example.com,Patna,Bihar,2023-11-21,New
+CUST0495,Ekani Varkey,charoliver@example.net,Kochi,Kerala,2022-02-25,Regular
+CUST0496,Shivansh Kala,nchawla@example.net,Patna,Bihar,2023-11-12,New
+CUST0497,Ekbal Dube,sharafgarima@example.org,Guwahati,Assam,2024-11-23,Regular
+CUST0498,Pranav Krishnamurthy,kariaarna@example.com,Indore,Madhya Pradesh,2022-04-22,Premium
+CUST0499,Rachita Mutti,ramachandranjagat@example.net,Patna,Bihar,2023-05-11,New
+CUST0500,Chakradev Bora,yadavi14@example.net,Kolkata,West Bengal,2022-01-08,New
+CUST0501,Baghyawati Sarma,qrana@example.org,Bhopal,Madhya Pradesh,2023-01-20,Regular
+CUST0502,Laban Raman,maanas45@example.org,Nagpur,Maharashtra,2023-08-28,Premium
+CUST0503,Jatin Barman,rameshfrederick@example.com,Guwahati,Assam,2023-12-08,Regular
+CUST0504,Siddharth Sachar,naveengour@example.org,Surat,Gujarat,2022-09-26,Regular
+CUST0505,Rishi Contractor,chaturashenoy@example.net,Nagpur,Maharashtra,2024-02-27,Regular
+CUST0506,Ekalinga Krishna,horavidhi@example.com,Guwahati,Assam,2023-12-03,New
+CUST0507,Harish Mane,harieesha@example.com,Delhi,Delhi,2023-04-01,New
+CUST0508,Michael Patla,priya20@example.com,Bhopal,Madhya Pradesh,2023-07-30,New
+CUST0509,Rajata Malhotra,krish57@example.com,Surat,Gujarat,2022-11-11,Premium
+CUST0510,Vidhi Chopra,finnmand@example.org,Pune,Maharashtra,2023-07-23,Premium
+CUST0511,Adya Bose,bahlyashica@example.net,Kanpur,Uttar Pradesh,2025-02-11,Regular
+CUST0512,Simon Bansal,urmi25@example.com,Kolkata,West Bengal,2022-02-09,Premium
+CUST0513,Krish Shetty,ranganathanjanuja@example.net,Ahmedabad,Gujarat,2022-10-12,Premium
+CUST0514,Noah Varkey,sanayadutta@example.org,Delhi,Delhi,2022-01-14,Regular
+CUST0515,Veda Parmer,kandavinaya@example.org,Patna,Bihar,2023-12-24,Regular
+CUST0516,Vivaan Basak,zarnapatel@example.com,Kanpur,Uttar Pradesh,2022-03-22,Premium
+CUST0517,Chakradhar Baral,harshil84@example.net,Bangalore,Karnataka,2023-08-23,New
+CUST0518,Krisha Radhakrishnan,faras84@example.com,Lucknow,Uttar Pradesh,2022-12-02,Premium
+CUST0519,Zaitra Ravi,hemani77@example.net,Chennai,Tamil Nadu,2025-05-26,Regular
+CUST0520,Ria Gandhi,farajvarkey@example.net,Kochi,Kerala,2022-01-09,New
+CUST0521,Rachit Dugar,jagat36@example.com,Kanpur,Uttar Pradesh,2022-12-25,Regular
+CUST0522,Varenya Srinivas,neelroy@example.org,Jaipur,Rajasthan,2024-07-08,New
+CUST0523,Naveen Desai,dindaksh@example.org,Jaipur,Rajasthan,2022-11-07,New
+CUST0524,Zansi Ravi,manderfrederick@example.org,Bhopal,Madhya Pradesh,2022-11-26,New
+CUST0525,Vasatika Garde,nirjadhar@example.net,Surat,Gujarat,2023-07-28,Premium
+CUST0526,Yasti Lalla,hemasetty@example.net,Lucknow,Uttar Pradesh,2024-11-12,New
+CUST0527,Kritika Rajan,ikbalbabu@example.org,Patna,Bihar,2024-01-24,New
+CUST0528,Mason Char,vamakshibarad@example.net,Ahmedabad,Gujarat,2023-10-29,Premium
+CUST0529,Girik Subramaniam,aaravsankar@example.net,Pune,Maharashtra,2023-10-05,New
+CUST0530,Pushti Karnik,wraj@example.net,Nagpur,Maharashtra,2023-06-21,New
+CUST0531,Pavani Desai,vansha31@example.com,Kochi,Kerala,2024-10-23,Regular
+CUST0532,Aarini Gulati,amblejacob@example.net,Nagpur,Maharashtra,2024-02-03,Regular
+CUST0533,Diya Rege,hredhaan26@example.net,Kochi,Kerala,2022-01-10,Regular
+CUST0534,Pallavi Pau,mekhala36@example.net,Kanpur,Uttar Pradesh,2024-01-17,Premium
+CUST0535,Praneel Prabhakar,tkulkarni@example.net,Jaipur,Rajasthan,2024-09-27,Premium
+CUST0536,Lakshit Dani,sanyaedwin@example.org,Kanpur,Uttar Pradesh,2023-03-16,Regular
+CUST0537,Hamsini Ben,lopaahluwalia@example.org,Pune,Maharashtra,2022-10-01,Regular
+CUST0538,Radhika Chakrabarti,lalltristan@example.com,Coimbatore,Tamil Nadu,2024-11-16,New
+CUST0539,Leena Rattan,dakshesh27@example.com,Kochi,Kerala,2022-04-13,Regular
+CUST0540,Robert Bandi,omkaarbanik@example.com,Coimbatore,Tamil Nadu,2022-01-14,Regular
+CUST0541,Nakul Chadha,mugdha56@example.com,Bangalore,Karnataka,2022-11-02,Premium
+CUST0542,Ekapad Chana,ijaya54@example.org,Patna,Bihar,2024-01-18,New
+CUST0543,Suhani Raval,lalparth@example.com,Surat,Gujarat,2024-02-13,Premium
+CUST0544,Yahvi Menon,jackson84@example.net,Hyderabad,Telangana,2023-10-08,Regular
+CUST0545,Saanvi Purohit,wkohli@example.com,Delhi,Delhi,2024-11-03,Regular
+CUST0546,Triveni Bala,qdada@example.org,Bhopal,Madhya Pradesh,2025-05-11,Regular
+CUST0547,Victor Mutti,hpandit@example.net,Pune,Maharashtra,2023-05-04,New
+CUST0548,Yuvraj Mani,rastogihema@example.org,Ahmedabad,Gujarat,2022-01-13,Regular
+CUST0549,Vamakshi Murthy,tejas94@example.org,Kanpur,Uttar Pradesh,2023-12-09,Premium
+CUST0550,Wishi Iyengar,wyattlanka@example.org,Kochi,Kerala,2025-04-23,Regular
+CUST0551,Ishani Dugal,darfarhan@example.net,Ahmedabad,Gujarat,2022-10-20,New
+CUST0552,Abeer Basak,nprabhu@example.com,Hyderabad,Telangana,2025-05-04,New
+CUST0553,Vritti Goswami,mitali39@example.org,Coimbatore,Tamil Nadu,2023-09-21,Regular
+CUST0554,Vanya Zachariah,thakkaridika@example.com,Jaipur,Rajasthan,2022-03-11,Regular
+CUST0555,Tanvi Dara,smutti@example.org,Kanpur,Uttar Pradesh,2025-01-02,Regular
+CUST0556,Ladli Chaudhuri,janaki94@example.org,Patna,Bihar,2022-01-16,New
+CUST0557,Amruta Sinha,jasmit27@example.com,Kanpur,Uttar Pradesh,2023-12-01,Regular
+CUST0558,Janya Rattan,shravya29@example.org,Kanpur,Uttar Pradesh,2022-09-26,Regular
+CUST0559,Harish Madan,rachanaraj@example.org,Kanpur,Uttar Pradesh,2025-06-03,Regular
+CUST0560,Urvashi Andra,oviyatata@example.org,Jaipur,Rajasthan,2022-07-06,Regular
+CUST0561,Vidhi Mital,champak61@example.net,Hyderabad,Telangana,2025-06-24,New
+CUST0562,Aachal Soni,senguptagaurika@example.com,Patna,Bihar,2022-07-28,Regular
+CUST0563,Hemangini Bahri,wdara@example.net,Kolkata,West Bengal,2023-04-06,Premium
+CUST0564,Owen Mane,ekta87@example.net,Coimbatore,Tamil Nadu,2025-05-13,New
+CUST0565,Lakshmi Mangat,kdhillon@example.net,Delhi,Delhi,2023-07-25,Premium
+CUST0566,Oviya Ravel,buchneel@example.com,Pune,Maharashtra,2024-10-27,New
+CUST0567,Bishakha Loke,cmadan@example.com,Guwahati,Assam,2022-10-19,Regular
+CUST0568,Odika Ganesh,arindass@example.net,Kochi,Kerala,2024-08-12,Regular
+CUST0569,Fariq Kade,mekhalachauhan@example.org,Kolkata,West Bengal,2022-10-27,New
+CUST0570,Chatura Bal,wviswanathan@example.org,Pune,Maharashtra,2022-03-23,Regular
+CUST0571,Frado Ramakrishnan,veer34@example.com,Ahmedabad,Gujarat,2022-05-13,Premium
+CUST0572,Onkar Balakrishnan,parikheshana@example.com,Coimbatore,Tamil Nadu,2024-03-10,Regular
+CUST0573,Sai Deshmukh,tanmayisaran@example.net,Ahmedabad,Gujarat,2023-08-20,New
+CUST0574,Idika Subramaniam,gauravsathe@example.com,Kochi,Kerala,2024-03-27,Regular
+CUST0575,Nachiket Mitter,acharyalaban@example.com,Chennai,Tamil Nadu,2023-04-12,Regular
+CUST0576,Vyanjana Sood,aditya64@example.net,Mumbai,Maharashtra,2023-01-01,Regular
+CUST0577,Kashvi Gulati,zsarkar@example.org,Kanpur,Uttar Pradesh,2022-10-23,Premium
+CUST0578,Kritika Kannan,fariq63@example.net,Pune,Maharashtra,2022-07-28,Premium
+CUST0579,Bhavani Wali,nitara31@example.org,Mumbai,Maharashtra,2024-09-02,Regular
+CUST0580,Tamanna Sethi,vyanjana35@example.org,Delhi,Delhi,2022-06-24,Regular
+CUST0581,Quincy Chaudry,amruta27@example.net,Indore,Madhya Pradesh,2022-07-14,Regular
+CUST0582,Matthew Aurora,vkalla@example.com,Bangalore,Karnataka,2022-01-11,Regular
+CUST0583,Kamya Sheth,narayananfaris@example.org,Kanpur,Uttar Pradesh,2023-02-02,Regular
+CUST0584,Ekbal Singhal,rehaankrishna@example.com,Hyderabad,Telangana,2022-03-13,Regular
+CUST0585,Yuvraj Rajan,vkota@example.org,Pune,Maharashtra,2024-11-22,New
+CUST0586,Sathvik Solanki,umuni@example.org,Delhi,Delhi,2022-09-12,Premium
+CUST0587,Jason Kulkarni,mmisra@example.com,Chandigarh,Chandigarh,2024-03-13,Regular
+CUST0588,Isaiah Keer,anair@example.org,Mumbai,Maharashtra,2025-02-06,Regular
+CUST0589,Meghana Kibe,basakvaishnavi@example.net,Bhopal,Madhya Pradesh,2024-10-10,New
+CUST0590,Gaurav Kothari,xalakchand@example.net,Indore,Madhya Pradesh,2024-01-31,Premium
+CUST0591,Darpan Parekh,hredhaandass@example.com,Bhopal,Madhya Pradesh,2024-02-29,Premium
+CUST0592,Reva Hans,purohitishita@example.net,Patna,Bihar,2022-10-24,Regular
+CUST0593,Vedhika Sarma,vrishti39@example.org,Bangalore,Karnataka,2022-06-21,Regular
+CUST0594,Upadhriti Maharaj,ekapadwali@example.org,Ahmedabad,Gujarat,2023-11-25,Regular
+CUST0595,Jeevika Setty,toorladli@example.net,Jaipur,Rajasthan,2023-07-28,Premium
+CUST0596,Januja Khare,dev86@example.org,Guwahati,Assam,2022-08-25,Regular
+CUST0597,Mitesh Mandal,nimrat51@example.org,Lucknow,Uttar Pradesh,2023-10-31,Regular
+CUST0598,Caleb Dayal,azadjaggi@example.org,Coimbatore,Tamil Nadu,2023-10-30,Regular
+CUST0599,Azad Rama,nvora@example.net,Patna,Bihar,2023-09-12,Regular
+CUST0600,Jeevika Kant,aryasathvik@example.net,Indore,Madhya Pradesh,2024-01-24,Regular
