@@ -60,12 +60,11 @@ Return Rate %, Average Order Value, Cancelled Orders %
 
 ## Business Insights
 Full write-up in `/reports/business_insights.md`. Highlights:
-- Total Revenue: ₹[your number]
-- Total Profit: ₹[your number]
-- Return Rate: [your number]%
-- [Top category] drives the highest revenue at ₹[amount]
-- [Top cities] account for [X]% of total revenue — geographic concentration
-  worth monitoring
+-  Total Revenue: ₹259.83M
+-  Total Profit: ₹28.27M
+-  Return Rate: 16.84%
+-  Fashion drives the highest revenue at ₹48.53M
+-  Kochi account for 7% of ₹259.83M
 
 ## Future Improvements
 - Automate the SQL → Power BI refresh with a scheduled pipeline
